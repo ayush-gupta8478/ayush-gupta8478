@@ -3,9 +3,9 @@
 
 # 👋 Hey, I'm Ayush Gupta
 
-### 💻 B.Tech CSE Student | Java & DSA Learner
+### 💻 CSE Student | Programmer | Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Learning+Java+%26+DSA;Solving+Coding+Problems;Building+My+Developer+Journey" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=C+%7C+Java+%7C+SQL;Data+Structures+%26+Algorithms;Frontend+Development;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <br/>
 
@@ -17,18 +17,35 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student
-- 🌱 Currently learning Java and Data Structures & Algorithms
-- 🧠 Interested in problem solving and competitive programming
-- 💻 Improving my coding skills one problem at a time
-- 🎯 Goal: Build projects and become a better software developer
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Programming with C and Java
+- 🧠 Practicing Data Structures & Algorithms
+- 🗄️ Working with SQL and databases
+- 🌐 Building websites using HTML, CSS and JavaScript
+- 🎯 Focused on problem solving, projects and continuous improvement
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,git,github,vscode" alt="Tech stack icons"/>
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java" alt="C and Java"/>
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
 </p>
 
 ---
@@ -41,7 +58,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-gupta8478&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ayush-gupta8478&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
@@ -49,19 +66,18 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🎯 Currently Focusing On
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush-gupta8478/ayush-gupta8478/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
+- Solving DSA problems
+- Improving coding skills in C and Java
+- Building frontend projects
+- Practicing SQL queries
 
 ---
 
 <div align="center">
 
-### 💚 Keep Learning. Keep Building. Keep Growing.
+### 💚 Code • Learn • Build • Repeat
 
 *Thanks for visiting my profile! ⭐*
 
