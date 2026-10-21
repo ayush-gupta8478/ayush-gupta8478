@@ -82,3 +82,23 @@
 *Thanks for visiting my profile! ⭐*
 
 </div>
+
+---
+
+## 🧩 LeetCode Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ayush_gupta8478/">
+  <img src="https://leetcard.jacoblin.cool/ayush_gupta8478?theme=dark&font=Baloo&ext=heatmap" alt="Ayush's LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/ayush_gupta8478/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
+</a>
+
+</div>
+
+---
