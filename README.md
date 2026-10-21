@@ -5,7 +5,9 @@
 
 ### 💻 CSE Student | Programmer | Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=C+%7C+Java+%7C+SQL;Data+Structures+%26+Algorithms;Frontend+Development;Always+Learning+%26+Building" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayush+Gupta;C+%7C+Java+%7C+DSA;SQL+%7C+Frontend+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
 
 <br/>
 
